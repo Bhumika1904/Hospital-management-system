@@ -1,1 +1,1 @@
-It contains managing the opd queue ,bed availability and details reagrding patient admissions
+It is a website that contains managing the opd queue ,bed availability and details regarding patient admissions
